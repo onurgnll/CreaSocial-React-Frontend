@@ -1,0 +1,31 @@
+.dogrula{
+    width: 40px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border: 1px solid black;
+    outline: none;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+}
+
+.btndogrula{
+    border: none;
+    
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #38B6FF;
+    color: white;
+    font-weight: bold;
+}
+.btndogrula:hover{
+
+    background-color: #3099d6;
+}
+.btndogrula:active{
+
+    background-color: #24719d;
+}

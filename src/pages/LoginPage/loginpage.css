@@ -1,0 +1,38 @@
+.inpp{
+    outline: none;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    margin-bottom: 8px;
+    border-radius: 30px;
+}
+.btnlogin{
+    border: none;
+    
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 5px;
+    border-radius: 30px;
+    padding: 5px;
+    background-color: #38B6FF;
+}
+.btnlogin:hover{
+
+    background-color: #3099d6;
+}
+.btnlogin:active{
+
+    background-color: #24719d;
+}
+
+.spin{
+    color: white;
+    font-weight: bold;
+}
+
+.toregister{
+    color: #3099d6;
+    margin-top: 5px;
+    cursor: pointer;
+}
